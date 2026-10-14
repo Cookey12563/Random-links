@@ -17,4 +17,4 @@ https://hylex.hbmc.net/
 
 https://modrinth.com
 
-https://docs.google.com/document/d/13Qvgwp-McdwxEAvgBrWdVh6puHazHe4X_k93PgLNJ_k/edit?usp=sharing
+https://www.minecraft-schematics.com/password-change/action/?key=f97874ffe298a64a3fccad0f5c6a4400
