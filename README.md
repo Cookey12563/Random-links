@@ -16,3 +16,5 @@ https://eaglercraftcentral.vercel.app
 https://hylex.hbmc.net/
 
 https://modrinth.com
+
+https://docs.google.com/document/d/13Qvgwp-McdwxEAvgBrWdVh6puHazHe4X_k93PgLNJ_k/edit?usp=sharing
