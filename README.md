@@ -16,5 +16,3 @@ https://eaglercraftcentral.vercel.app
 https://hylex.hbmc.net/
 
 https://modrinth.com
-
-https://www.minecraft-schematics.com/password-change/action/?key=f97874ffe298a64a3fccad0f5c6a4400
