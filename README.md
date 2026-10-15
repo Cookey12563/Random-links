@@ -16,3 +16,7 @@ https://eaglercraftcentral.vercel.app
 https://hylex.hbmc.net/
 
 https://modrinth.com
+
+https://www.minecraft-schematics.com/schematic/28702/download/action/?type=schematic
+
+https://www.minecraft-schematics.com/schematic/29979/download/action/?type=schematic
